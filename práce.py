@@ -1,3 +1,5 @@
+#itemy nebo prvky
+#arrays se nemusí vždy používat jako název
 arrays = ["Ford", "Porsche", "Audi", "BMW", "Mercedes", "Škoda"]
 
 #Vypíše všechny pole v délce. která je rovna délce pole
