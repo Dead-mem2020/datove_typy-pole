@@ -2,7 +2,7 @@ cars = ["Ford", "Volvo", "BMW", "Audi"]
 
 def vypis_pole(prvek):
     for x in range(len(prvek)):
-        print(f"Auto s číslem {x+1}: {prvek[x]}")
+        print(f"Auto číslo {x+1}: {prvek[x]}")
 
 vypis_pole(cars)
 #Uložím do proměné prvek, který budu chtít přidat
